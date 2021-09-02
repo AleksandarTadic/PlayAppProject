@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Play</string>
+    <string name="username_label">Username:</string>
+    <string name="email_label">Email:</string>
+    <string name="password_label">Password:</string>
+    <string name="username_hint">Enter your username...</string>
+    <string name="email_hint">Enter your email...</string>
+    <string name="password_hint">Enter your password...</string>
+    <string name="button_login">Login</string>
+    <string name="register_label_login">Don\'t have an account? Register now.</string>
+    <string name="login_label_register">Already have an account? Login now.</string>
+    <string name="register_label">Register</string>
+    <string name="edit">Edit</string>
+    <string name="logout">Logout</string>
+    <string name="account">Account</string>
+    <string name="deleteAccount">Delete account</string>
+    <string name="editAccountDetails">Edit Account Details</string>
+    <string name="editAccountNewUsername">Enter new username...</string>
+    <string name="editAccountNewEmail">Enter new email...</string>
+    <string name="editAccountNewPassword">Enter new password...</string>
+    <string name="editAccountApply">Apply Changes</string>
+</resources>
